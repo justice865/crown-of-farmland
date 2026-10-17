@@ -1,0 +1,2 @@
+Farm;Annihilator;16000;2000
+Simple;Farmer;100;73

@@ -1,0 +1,6 @@
+Synchronized;Soles;600;300
+Symbiotic;Souls;300;600
+Conspiratorial;Convert;150;400
+Conditional;Clown;300;500
+Prime;Partner;300;50
+Powerful;Puncher;700;100

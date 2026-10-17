@@ -1,0 +1,24 @@
+Daisy;Farmer;300;500
+Pitchfork;Farmer;400;400
+Stable;Farmer;500;300
+Manure;Spreader;600;600
+Potato;Farmer;700;500
+Fence;Farmer;300;1000
+Barn;Guard;400;900
+Chicken;Farmer;800;700
+Tractor;Farmer;900;600
+Silo;Operator;500;1100
+Beetroot;Farmer;1000;900
+Goat;Farmer;1000;1000
+Pig;Farmer;1200;800
+Grain;Farmer;1100;1100
+Threshing;Maid;1300;1000
+Shield;Farmer;800;1600
+Barrier;Builder;900;1700
+Milk Cow;Farmer;1400;1400
+Livestock;Sorceress;1500;1200
+Field Marshal;Farmer;1700;1500
+Agro;Architect;1900;1800
+Titan Tractor;Farmer;2200;2000
+Seed;Farmer;2500;2300
+Egg-laying Wool-Milk-Pig;Farmer;3000;3000
